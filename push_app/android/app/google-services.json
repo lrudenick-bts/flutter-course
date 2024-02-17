@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581959620186",
+    "project_id": "flutter-projects-69453",
+    "storage_bucket": "flutter-projects-69453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581959620186:android:6640a1791a915f37f76a63",
+        "android_client_info": {
+          "package_name": "com.lrudenick.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2pM9DB5w2sotv0DjxJLBfc7zZwlGG-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
